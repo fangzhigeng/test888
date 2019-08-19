@@ -1,0 +1,3 @@
+exceptionFilter=com.deepde.paq.filter.ExceptionFilter
+dubboContextProviderFilter=com.deepde.paq.filter.DubboContextProviderFilter
+dubboContextConsumerFilter=com.deepde.paq.filter.DubboContextConsumerFilter
